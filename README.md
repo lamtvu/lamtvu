@@ -1,16 +1,13 @@
-### Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+### Hi there 👋, My name is Thanh Lam
+A web developer.
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lam-vu-951940274/) ![Gmail](https://img.shields.io/badge/lamtvu1903@gmail.com-red?logo=gmail&logoColor=white) [![Skype](https://img.shields.io/badge/skype-blue?logo=skype&logoColor=white)](https://join.skype.com/invite/vgkfWS79Nf8E)
+## 🛠 Skills
+[![My Skills](https://skillicons.dev/icons?i=angular,react,azure,nodejs,dotnet)]
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lamtvu&show_icons=true&locale=en&layout=compact" alt="lamtvu" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lamtvu&show_icons=true&locale=en" alt="lamtvu" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lamtvu&" alt="lamtvu" /></p>
 <!--
-**lamtvu/lamtvu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
